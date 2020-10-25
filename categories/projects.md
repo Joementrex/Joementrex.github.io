@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jekyll
+title: Projects
 permalink: /blog/categories/projects/
 ---
 

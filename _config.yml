@@ -38,7 +38,7 @@ author_work_experiences:
               company_logo: GreenRoom.png
               company_url: https://greenroomrobotics.com/
               designation: Machine Learning Consultant
-              description: Worked on training datasets
+              description: Worked on training datasets to find objects in water.
               visibility: true
             - company_name: Empty
               company_logo: microsoft.png

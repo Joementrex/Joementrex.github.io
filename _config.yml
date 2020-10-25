@@ -1,7 +1,7 @@
 title: Joseph Turner
-subtitle: A Jekyll Theme Built for Developers
+subtitle: Hi, Thank you for visiting my site.
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  A blog of my projects and information
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -25,35 +25,35 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
+author: Joseph Turner
+author_bio: Hi, my name is Joseph Turner
+author_email: "joseph_turner1@hotmail.com"
 author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+author_website_url: "https://joementrex.github.io/#/"
+typewrite-text: I hope you enjoy your stay here, feel free to look around.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: GreenRoom Robotics
+              company_logo: GreenRoom.png
+              company_url: https://greenroomrobotics.com/
+              designation: Machine Learning Consultant
+              description: Worked on training datasets
               visibility: true
-            - company_name: Microsoft
+            - company_name: Empty
               company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
+              company_url: ahhh
+              designation: blank
               description: Worked on various Azure Cloud Products
-              visibility: true
+              visibility: false
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: QUT.png
+                college_name: QUT
+                college_url: https://www.qut.edu.au/
+                college_degree: Engineer
+                description: Bachelor of Mechatronics
                 visibility: true
 
 # Projects
@@ -67,7 +67,7 @@ author_project_details:
                 project_title: Hack4r
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://hack4r.com
-                visibility: true
+                visibility: false
 
 # social links
 twitter_username: johndoe

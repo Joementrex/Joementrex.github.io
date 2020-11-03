@@ -4,7 +4,7 @@ title:  "I got invited to google foobar"
 summary: I recieved an invitation for the google foobar challenge
 author: Joseph Turner
 date: '2020-10-15 10:35:23 +0530'
-category: projects
+category: challenges
 thumbnail: /assets/img/posts/foobar.GIF
 keywords: Coding Challenge
 usemathjax: true
